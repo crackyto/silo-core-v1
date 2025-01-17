@@ -16,3 +16,4 @@ However, following files are licensed under MIT License see [`LICENSE_MIT`](./LI
 Following files have The Unlicensed license see [`LICENSE_UNLICENSED`](./LICENSE_UNLICENSED):
 - [`contracts/lib/PRBMathCommon.sol`](./contracts/lib/PRBMathCommon.sol).
 - [`contracts/lib/PRBMathSD59x18.sol`](./contracts/lib/PRBMathSD59x18.sol).
+Mise à jour du 17 janvier 2025 ✅
