@@ -18,3 +18,4 @@ Following files have The Unlicensed license see [`LICENSE_UNLICENSED`](./LICENSE
 - [`contracts/lib/PRBMathSD59x18.sol`](./contracts/lib/PRBMathSD59x18.sol).
 Mise à jour du 17 janvier 2025 ✅
 Mise à jour du 18 janvier 2025 ✅
+Mise à jour du 19 janvier 2025 ✅
